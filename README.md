@@ -1,7 +1,7 @@
 # Blink-Command-ESP8266
 This was the first Activity Set in my second workshop conducted as a part of my subject, Engineering Explorations. I have given a step by step guide in this repo as to how I was able to blink the built-in led on ESP8266 Microcontroller, and so can you!
 <br><br>
-I strongly suggest th viewers to go through this README.md file to effectively understand the process to blink the led on the ESP8266 Microcontroller.
+I strongly suggest the viewers to go through this README.md file to effectively understand the process to blink the led on the ESP8266 Microcontroller.
 <br><br>
 
 <h1>ALL ABOUT ESP8266</h1>
@@ -75,6 +75,17 @@ The ESP8266 chip has its own set of APIs for Wi-Fi connectivity and other featur
 <p>3. After a quick build, the sketch would successfully be uploaded to the microcontroller and you see the LED blink.</p><br>
 
 <h2>or, you can also simply download the file from this repo and use it :)</h2>
+
+<br>
+<br>
+
+<h1>Challenges Faced : </h1>
+<br>
+<p>One challenge that you might face is, if you do not have the 2102 driver installed and running in your computer device, then what typically happens is, the port from which you want to export your file becomes undetectable by the IDE. Here is a quick 2-step guide to help you with this problem</p>
+<br>
+<p>1. Install the Universal Windows 210x Driver from https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads if you are using a windows machine.</p>
+<br>
+<p>2. Extract all the files and update settings in your device manager and you are good to go!</p>
 
 
 
