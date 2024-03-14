@@ -81,7 +81,7 @@ The ESP8266 chip has its own set of APIs for Wi-Fi connectivity and other featur
 
 <h1>Challenges Faced : </h1>
 <br>
-<p>One challenge that you might face is, if you do not have the 2102 driver installed and running in your computer device, then what typically happens is, the port from which you want to export your file becomes undetectable by the IDE. Here is a quick 2-step guide to help you with this problem</p>
+<p>One challenge that you might face is, if you do not have the 2101 driver installed and running in your computer device, then what typically happens is, the port from which you want to export your file becomes undetectable by the IDE. Here is a quick 2-step guide to help you with this problem</p>
 <br>
 <p>1. Install the Universal Windows 210x Driver from https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads if you are using a windows machine.</p>
 <br>
